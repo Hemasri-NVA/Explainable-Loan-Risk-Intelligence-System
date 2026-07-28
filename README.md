@@ -178,6 +178,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+**Note**
+This project has been published for educational, learning, and portfolio purposes only.
+The source code is shared to demonstrate my implementation and technical skills.
+Reproduction, redistribution, or commercial use of this project without prior written permission from the author is not permitted.
 
 
 Project Screenshots
@@ -185,6 +189,7 @@ Project Screenshots
 Added screenshots of the following:
 
 - Home Page
+- About the Model
 - Loan Approved Prediction
 - Loan Rejected Prediction
 - Feature Importance Plot
@@ -216,6 +221,18 @@ Through this project, I gained practical experience in:
 - Deploying machine learning models
 
 
+About This Project
+
+This project was developed independently as part of my machine learning portfolio to strengthen my understanding of:
+
+- Data preprocessing
+- Classification algorithms
+- Model evaluation3
+- Explainable AI (SHAP)
+- Streamlit deployment
+- End-to-end machine learning workflows
+
+It reflects my practical implementation skills in applying machine learning techniques to a real-world loan approval prediction problem.
 
 Author
 
